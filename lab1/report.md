@@ -27,7 +27,7 @@ Date of finished: 22.10.2023
 
 ## <a name="part_3">Результат</a>
 
-### <a name="part_3.1">[Файл] (https://github.com/sgsoul/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/blob/main/lab1/lab1.yaml) для развертывания тестовой сети</a>
+### <a name="part_3.1"> [Файл](https://github.com/sgsoul/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/blob/main/lab1/lab1.yaml) для развертывания тестовой сети</a>
 
 ### <a name="part_3.2">Схема связи</a>
 
