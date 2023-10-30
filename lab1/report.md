@@ -12,11 +12,11 @@ Date of finished: 31.09.2023
 
 ## Оглавление
  - [Описание](#part_1)
- - [Цель]
- - [Результат]
-     - [Файл для развертывания тестовой сети]
-     - [Схема связи]
-     - [Конфигурации устройств]
+ - [Цель](#part_2)
+ - [Результат](#part_3)
+     - [Файл для развертывания тестовой сети](#part_3.1)
+     - [Схема связи](#part_3.2)
+     - [Конфигурации устройств](#part_3.3)
      - [Проверка связности]
 
 ## <a name="part_1">Описание</a>
@@ -33,11 +33,20 @@ Date of finished: 31.09.2023
 
 ![Снимок экрана 2023-10-18 203706](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/a0b499b5-a4aa-4203-ab8c-b5f67ab38eb7)
 
+### <a name="part_3.3">Конфигурациb устройств</a>
 
+#### R01
+![R01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/2c781a0a-a563-4be0-85a5-37702af7ef99)
 
+#### SW01.L3.01
+![SW01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/1a1957f1-1a65-44fc-a567-13c0097adc4e)
 
+#### SW02.L3.01
+![SW021](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/fc0d5e05-354c-4689-9553-6d074a36781b)
 
+#### SW02.L3.02
 
+![SW022](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/c6afbe8e-9200-4301-a2f0-0c45335cf4f9)
 
 
 
