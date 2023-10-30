@@ -3,7 +3,7 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introduction-in-routing)  
 Year: 2023/2024  
 Group: K33202  
-Author: Filianin Ivan Victorovich  
+Author: Shalyapina Maria Vasilievna  
 Lab: Lab1  
 Date of create: 10.10.2023  
 Date of finished: 22.10.2023  
@@ -31,15 +31,17 @@ Date of finished: 22.10.2023
 
 ### <a name="part_3.2">Схема связи</a>
 
-![Снимок экрана 2023-10-18 203706](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/a0b499b5-a4aa-4203-ab8c-b5f67ab38eb7)
+![Снимок экрана 2023-10-18 203706](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/5c856811-8f8e-4f57-a3ba-95826f7e4aab)
+
 
 ### <a name="part_3.3">Конфигурации устройств</a>
 
 #### R01
-![R01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/2c781a0a-a563-4be0-85a5-37702af7ef99)
+![R01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/677977af-4b6f-4bb9-a067-65824988a30e)
 
 #### SW01.L3.01
-![SW01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/1a1957f1-1a65-44fc-a567-13c0097adc4e)
+![SW01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/7a9de71c-b7a3-41eb-839d-322d3459eefa)
+
 
 #### SW02.L3.01
 ![SW021](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/fc0d5e05-354c-4689-9553-6d074a36781b)
