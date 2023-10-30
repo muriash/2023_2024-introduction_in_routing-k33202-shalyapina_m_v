@@ -5,8 +5,8 @@ Year: 2023/2024
 Group: K33202  
 Author: Filianin Ivan Victorovich  
 Lab: Lab1  
-Date of create: 20.09.2023  
-Date of finished: 31.09.2023  
+Date of create: 10.10.2023  
+Date of finished: 22.10.2023  
 
 # Лабораторная работа №1 "Установка ContainerLab и развертывание тестовой сети связи"
 
@@ -17,7 +17,7 @@ Date of finished: 31.09.2023
      - [Файл для развертывания тестовой сети](#part_3.1)
      - [Схема связи](#part_3.2)
      - [Конфигурации устройств](#part_3.3)
-     - [Проверка связности]
+     - [Проверка связности](#part_4)
 
 ## <a name="part_1">Описание</a>
 В данной лабораторной работе вы познакомитесь с инструментом ContainerLab, развернете тестовую сеть связи, настроите оборудование на базе Linux и RouterOS.
@@ -33,7 +33,7 @@ Date of finished: 31.09.2023
 
 ![Снимок экрана 2023-10-18 203706](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/a0b499b5-a4aa-4203-ab8c-b5f67ab38eb7)
 
-### <a name="part_3.3">Конфигурациb устройств</a>
+### <a name="part_3.3">Конфигурации устройств</a>
 
 #### R01
 ![R01](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/2c781a0a-a563-4be0-85a5-37702af7ef99)
@@ -45,8 +45,10 @@ Date of finished: 31.09.2023
 ![SW021](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/fc0d5e05-354c-4689-9553-6d074a36781b)
 
 #### SW02.L3.02
-
 ![SW022](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/c6afbe8e-9200-4301-a2f0-0c45335cf4f9)
+
+### <a name="part_4">Проверка связности</a>
+![Снимок экрана 2023-10-18 222621](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/e9a45463-d392-4561-9a8d-7fa72e52a032)
 
 
 
