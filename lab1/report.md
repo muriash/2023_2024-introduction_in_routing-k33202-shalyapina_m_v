@@ -44,13 +44,15 @@ Date of finished: 22.10.2023
 
 
 #### SW02.L3.01
-![SW021](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/fc0d5e05-354c-4689-9553-6d074a36781b)
+![SW021](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/9414a67e-104b-4da2-bf2a-7213330cee4f)
+
 
 #### SW02.L3.02
-![SW022](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/c6afbe8e-9200-4301-a2f0-0c45335cf4f9)
+![SW022](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/1f9fbdda-1b79-4736-8d0e-411d1021d7d8)
+
 
 ### <a name="part_4">Проверка связности</a>
-![check](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/abf1d406-55e8-4aed-8a50-9b126b180949)
+![check](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/d2716a9f-ab02-43a3-8db7-40cf9ab42319)
 
 
 
