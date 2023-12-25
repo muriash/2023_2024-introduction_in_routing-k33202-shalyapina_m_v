@@ -1,0 +1,58 @@
+name: topo4
+
+mgmt:
+  network: statics
+  ipv4-subnet: 192.168.105.0/24
+
+topology:
+  kinds:
+    vr-ros:
+      image: vrnetlab/vr-routeros:6.47.9
+  nodes:
+    R01.NYC:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.2
+
+    R01.LND:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.3
+           
+    R01.HKI:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.4
+         
+    R01.SPB:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.5
+           
+    R01.SVL:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.6
+            
+    R01.LBN:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.7
+          
+    PC1:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.8
+
+    PC2:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.9
+
+    PC3:
+      kind: vr-ros
+      mgmt-ipv4: 192.168.105.10
+
+  links:
+    - endpoints: ["PC1:eth1","R01.NYC:eth1"]
+    - endpoints: ["R01.NYC:eth2","R01.LND:eth1"]
+    - endpoints: ["R01.LND:eth2","R01.LBN:eth1"]
+    - endpoints: ["R01.LND:eth3","R01.HKI:eth1"]
+    - endpoints: ["R01.LBN:eth2","R01.HKI:eth2"]
+    - endpoints: ["R01.HKI:eth3","R01.SPB:eth1"]
+    - endpoints: ["R01.LBN:eth3","R01.SVL:eth1"]
+    - endpoints: ["R01.SVL:eth2","PC3:eth1"]
+    - endpoints: ["R01.SPB:eth3","PC2:eth1"]
+    
