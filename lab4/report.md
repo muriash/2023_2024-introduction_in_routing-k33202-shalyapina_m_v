@@ -34,7 +34,7 @@ Date of finished: 20.12.2023
 
 ## <a name="part_3">Результат</a>
 
-### <a name="part_3.1"> [Файл](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/blob/main/lab3/lab3.yaml) для развертывания тестовой сети</a>
+### <a name="part_3.1"> [Файл](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/blob/main/lab4/topo4.yaml) для развертывания тестовой сети</a>
 
 ### <a name="part_3.2">Схема связи</a>
 ![схема](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/39df8ed5-2d71-4258-b2a1-7fead124244b)
@@ -58,10 +58,10 @@ Date of finished: 20.12.2023
 #### <a name="part_3.3.2">Настройка BGP</a>
 
 При создании network backbone, автоматически создаются интерфейсы OSPF. Пример для роутера в Нью-Йорке:
-![7 NYC OSPF](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/71794643-563b-46c5-9681-9f740c56c171)
+<p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/71794643-563b-46c5-9681-9f740c56c171"></p>
 
 Результат настройки BGP на узлах:
-![8 NYC BGP](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/cff74e7f-9aec-4844-b546-26247fbabdfe)
+<p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/cff74e7f-9aec-4844-b546-26247fbabdfe"></p>
 
 ![9 LND BGP](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/9ae9d334-50de-4f04-baee-2193dde5427b)
 
@@ -77,7 +77,7 @@ Date of finished: 20.12.2023
 #### <a name="part_3.3.3">Настройка MLPS</a>
 
 Пример настройки для роутера R01.HKI:
-![14 MLPS enable hki](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/dfb6ea1f-e9c2-4014-beb6-2f5545cc312c)
+<p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/dfb6ea1f-e9c2-4014-beb6-2f5545cc312c"></p>
 ![15 MLPS interfaces hki](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/767bb705-9737-4d39-8676-8d87f1e07e64)
 
 
@@ -87,7 +87,7 @@ Date of finished: 20.12.2023
 
 #### <a name="part_3.3.5">Проверка связности</a>
 PC2 --> PC1, PC2 --> PC3
-![18 ping from NYC](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/68ddd672-942b-490f-ab79-ceb8e1410c1d)
+<p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/68ddd672-942b-490f-ab79-ceb8e1410c1d"></p>
 
 
 ### <a name="part_3.4">Часть 2</a>
@@ -96,12 +96,12 @@ PC2 --> PC1, PC2 --> PC3
 Для настройки VPLS, на узлах были убраны прежние найстроки VRF.
 
 Пример настройки VPLS для роутера R01.NYC:
-![19 VLPS NYC](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/4e96b1ca-43c2-49ac-9f4f-f55fce6cea18)
+<p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/4e96b1ca-43c2-49ac-9f4f-f55fce6cea18"></p>
 ![20 VPLS bridge NYC](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/925feac0-ec19-4b33-aef2-5b31a91a1d7b)
 
 #### <a name="part_3.4.2">Проверка связности </a>
 PC2 --> PC1, PC2 --> PC3
-![21 ping from NYC 2](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/6bbb6ce6-40f1-4ac9-a335-73e1937a0047)
+<p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/6bbb6ce6-40f1-4ac9-a335-73e1937a0047"></p>
 
 
 
