@@ -78,6 +78,7 @@ Date of finished: 20.12.2023
 
 Пример настройки для роутера R01.HKI:
 <p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/dfb6ea1f-e9c2-4014-beb6-2f5545cc312c"></p>
+
 ![15 MLPS interfaces hki](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/767bb705-9737-4d39-8676-8d87f1e07e64)
 
 
@@ -97,6 +98,7 @@ PC2 --> PC1, PC2 --> PC3
 
 Пример настройки VPLS для роутера R01.NYC:
 <p align=center><img src="https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/4e96b1ca-43c2-49ac-9f4f-f55fce6cea18"></p>
+
 ![20 VPLS bridge NYC](https://github.com/muriash/2023_2024-introduction_in_routing-k33202-shalyapina_m_v/assets/90574857/925feac0-ec19-4b33-aef2-5b31a91a1d7b)
 
 #### <a name="part_3.4.2">Проверка связности </a>
